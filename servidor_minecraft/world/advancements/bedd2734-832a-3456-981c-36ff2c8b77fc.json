@@ -876,6 +876,12 @@
     },
     "done": true
   },
+  "spartanweaponry:katana": {
+    "criteria": {
+      "craft": "2025-06-07 23:24:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_hardened_clay": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:31:12 +0000"
