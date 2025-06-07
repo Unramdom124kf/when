@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_barakoana": {
+    "criteria": {
+      "barakoana": "2025-06-07 23:45:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_sandstone": {
     "criteria": {
       "has_the_recipe": "2025-06-06 03:31:42 +0000"
